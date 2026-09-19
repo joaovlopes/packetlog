@@ -11,7 +11,7 @@ export default function Footer() {
             PacketLog © {new Date().getFullYear()} — notas de estudo sobre redes de computadores
           </p>
           <div className="flex gap-4 font-mono text-xs text-muted">
-            <a href="https://www.linkedin.com" target="_blank" rel="noreferrer" className="transition-colors hover:text-accent">
+            <a href="https://www.linkedin.com/in/joaovlopesmartins/" target="_blank" rel="noreferrer" className="transition-colors hover:text-accent">
               linkedin
             </a>
             <a href="https://github.com/joaovlopes" target="_blank" rel="noreferrer" className="transition-colors hover:text-accent">

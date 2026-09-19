@@ -64,7 +64,7 @@ export default function Navbar() {
 
         <div className="flex items-center gap-2">
           <a
-            href="https://www.linkedin.com"
+            href="https://www.linkedin.com/in/joaovlopesmartins/"
             target="_blank"
             rel="noreferrer"
             className="hidden rounded-full border border-edge px-4 py-1.5 text-sm font-medium text-muted transition-all hover:border-accent hover:text-accent sm:inline-block"
